@@ -1,5 +1,4 @@
-# Empathisches Grafikdesign
-In dieser Repository findet ihr Übungen, Infos und Links zum Laborkurs.
+## Empathisches Grafikdesign
 
 ## [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki)
 
