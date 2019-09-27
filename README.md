@@ -1,6 +1,8 @@
 # Empathisches Grafikdesign
 In dieser Repository findet ihr Übungen, Infos und Links zum Laborkurs.
 
+## [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki)
+
 Im [zugehörigen Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki) sammeln wir Wissenswertes zum Scripting und zum Thema Daten / Datensammeln / Datenformate, etc.
 
 ## p5.js
@@ -28,4 +30,4 @@ Wir können/werden uns im Rahmen des Kurses auch weitere Tools anschauen und ane
 - [cables](https://cables.gl/) – Eine nodebasierte Programmierumgebung
 - [vvvv](https://vvvv.org/) – Eine nodebasierte Programmierumgebung (Windows only 😞)
 - [basil.js](http://basiljs.ch/) – p5.js/Processing-Variante zur Nutzung innerhalb von Adobe InDesign
-- [Keyboard Maestro](https://www.keyboardmaestro.com) (Mac only 😞)
+- [Keyboard Maestro](https://www.keyboardmaestro.com) – Automatisierungsumgebung zur Ausführung von Macros (Mac only 😞)
