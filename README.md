@@ -5,6 +5,14 @@ In dieser Repository findet ihr Übungen, Infos und Links zum Laborkurs.
 
 Im zugehörigen [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki) sammeln wir Wissenswertes zum Scripting und zum Thema Daten / Datensammeln / Datenformate, etc.
 
+## Kurs
+
+- [Daten](/Daten)
+- [Impulse](/Impulse)
+- [Übungen](/Uebungen)
+- [Apps](/Apps)
+
+
 ## p5.js
 
 Zum Programmieren unserer Designs und Grafiken nutzen wir [p5.js](https://p5js.org). Ein paar wichtige Links dazu:
@@ -21,6 +29,7 @@ Folgendes digitales Werkzeug brauchen wir für den Kurs:
 - [GitHub](https://github.com/) – Eine Plattform zum Teilen von Code. Legt euch bitte einen (kostenlosen) [GitHub-Account](https://github.com/join) an.
 - [Sublime Text 3](https://www.sublimetext.com/) – Ein vielseitiger Texteditor zum Scripten und Bearbeiten von Textdateien.
 - Apps zum Aufzeichnen von Daten (eine Liste dieser Apps erstellen wir gemeinsam)
+- [LibreOffice](https://de.libreoffice.org/) – Office-Paket zum Bearbeiten von Tabellen
 
 ## Weitere Tools
 
