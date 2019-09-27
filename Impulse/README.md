@@ -6,7 +6,7 @@ Jede/r Kursteilnehmer\*in bereitet einen kurzen Impulsvortrag zu einem Thema vor
 - *keine* langen Backgroundstories, stattdessen Relevantes für unseren Kurs
 - im Anschluss wird eine Seite im Wiki angelegt mit allen relevanten Fakten und ggf. Grafiken/Screenshots
 
-Folgende Themen stehen zur Auswahl:
+Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 
 ### Daten
 
