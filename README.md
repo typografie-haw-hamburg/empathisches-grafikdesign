@@ -3,7 +3,7 @@ In dieser Repository findet ihr Übungen, Infos und Links zum Laborkurs.
 
 ## [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki)
 
-Im [zugehörigen Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki) sammeln wir Wissenswertes zum Scripting und zum Thema Daten / Datensammeln / Datenformate, etc.
+Im zugehörigen [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki) sammeln wir Wissenswertes zum Scripting und zum Thema Daten / Datensammeln / Datenformate, etc.
 
 ## p5.js
 
