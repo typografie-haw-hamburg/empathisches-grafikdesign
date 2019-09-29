@@ -19,6 +19,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | JSON-Dateien | | |
 | OpenStreetMap | | |
 | APIs | | |
+| Web Scraping | | |
 | ... | | |
 
 ### Workflow
