@@ -28,6 +28,8 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | Markdown | | 07.10.2019 |
 | Are.na | | 14.10.2019 |
 | How to use Google | | |
+| IFTTT | | |
+| Workflow (iOS) | | |
 | ... | | |
 
 ### Algorithmen

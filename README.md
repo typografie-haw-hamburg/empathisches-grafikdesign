@@ -1,8 +1,8 @@
-## Empathisches Grafikdesign
+#### Empathisches Grafikdesign
 
 ## [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki)
 
-Im zugehörigen [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki) sammeln wir Wissenswertes zum Scripting und zum Thema Daten / Datensammeln / Datenformate, etc.
+Im [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki) sammeln wir Wissenswertes zum Scripting und zum Thema Daten / Datensammeln / Datenformate, etc.
 
 ## Kurs
 
