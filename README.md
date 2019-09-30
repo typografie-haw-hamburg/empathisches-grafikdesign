@@ -6,7 +6,7 @@ Im [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wi
 
 ## Kurs
 
-- [Daten](/Daten)
+- [Daten](https://github.com/typografie-haw-hamburg/data)
 - [Impulse](/Impulse)
 - [Übungen](/Uebungen)
 - [Apps](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki/Apps)
