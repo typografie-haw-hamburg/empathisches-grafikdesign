@@ -9,7 +9,7 @@ Im [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wi
 - [Daten](/Daten)
 - [Impulse](/Impulse)
 - [Übungen](/Uebungen)
-- [Apps](/Apps)
+- [Apps](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki/Apps)
 
 
 ## p5.js
