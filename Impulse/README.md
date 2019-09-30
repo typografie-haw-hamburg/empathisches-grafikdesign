@@ -12,20 +12,21 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 
 | Thema | Student\*in | Termin |
 | --- | --- | --- |
-| CSV-Dateien | | 07.10.2019 |
+| CSV-Dateien | Niklas | 07.10.2019 |
 | Wikipedia | | |
 | Tagging (Keywords, Hashtags & Co.) | | |
 | Exif | | |
 | JSON-Dateien | | |
 | OpenStreetMap | | |
 | APIs | | |
+| Web Scraping | | |
 | ... | | |
 
 ### Workflow
 
 | Thema | Student\*in | Termin |
 | --- | --- | --- |
-| Markdown | | 07.10.2019 |
+| Markdown | Frida | 07.10.2019 |
 | Are.na | | 14.10.2019 |
 | How to use Google | | |
 | IFTTT | | |
