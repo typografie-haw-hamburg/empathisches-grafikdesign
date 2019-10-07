@@ -13,7 +13,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | Thema | Student\*in | Termin |
 | --- | --- | --- |
 | CSV-Dateien | Niklas | 07.10.2019 |
-| Wikipedia | | |
+| Wikipedia | Annelen | |
 | Tagging (Keywords, Hashtags & Co.) | | |
 | Exif | | |
 | JSON-Dateien | | |
@@ -27,7 +27,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | Thema | Student\*in | Termin |
 | --- | --- | --- |
 | Markdown | Frida | 07.10.2019 |
-| Are.na | | 14.10.2019 |
+| Are.na | Kaja | 14.10.2019 |
 | How to use Google | | |
 | IFTTT | | |
 | Workflow (iOS) | | |
