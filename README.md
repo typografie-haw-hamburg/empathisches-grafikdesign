@@ -7,6 +7,7 @@ Im [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wi
 ## Kurs
 
 - [Daten](https://github.com/typografie-haw-hamburg/data) (Link ist nur für Gruppenmitglieder aufrufbar)
+- [Gruppenbild-Team](https://github.com/orgs/typografie-haw-hamburg/teams/gruppenbild) Diskussionsplattform
 - [Impulse](/Impulse)
 - [Übungen](/Uebungen)
 - [Apps](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki/Apps)
