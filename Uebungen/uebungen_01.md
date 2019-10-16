@@ -1,4 +1,4 @@
-# Übung #1
+# Übung 01
 
 * Schreibt im [p5.js-Editor](https://editor.p5js.org/) ein Script, das aus verschiedenen Formen einen Schneemann (mit Gesicht, Topf auf dem Kopf und Möhrennase) zeichnet. Stellt den Schneemann in eine Landschaft und lasst optional einen Regenbogen über ihm erstrahlen (wie könnt ihr einen Regenbogen nur aus Kreisen erstellen?).
 
