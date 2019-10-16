@@ -1,2 +1,2 @@
-- Übungen 01(/uebungen_01.md), bis zum 07.10.2019
-- Übungen 03(/uebungen_03.md), bis zum 21.10.2019
+- Übungen [01](/uebungen_01.md), bis zum 07.10.2019
+- Übungen [03](/uebungen_03.md), bis zum 21.10.2019
