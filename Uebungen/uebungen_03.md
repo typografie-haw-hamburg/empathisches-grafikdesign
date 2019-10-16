@@ -8,3 +8,4 @@ Bis nächste Woche, 21.10.2019, macht bitte folgende Aufgaben:
   * Das kann gerne ein ganz einfaches Diagramm (Balkendiagramm oder Ähnliches) sein
   * Nutzt dazu einen echten Datensatz, den ihr oder andere aus dem Kurs aufgezeichnet haben. Ihr müsst nicht unbedingt den gesamten Datensatz darstellen, es reicht auch, wenn ihr zum Beispiel nur 5-10 Einträge aus dem Datensatz darstellt.
   * Wenn ihr eure Infografik mit Text versehen wollt, versucht herauszufinden, wie man in p5.js Text erstellen kann.
+  * Schickt mir bitte bis Montag einen Link zu eurer Infografik.
