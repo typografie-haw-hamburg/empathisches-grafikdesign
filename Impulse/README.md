@@ -14,7 +14,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | --- | --- | --- |
 | CSV-Dateien | Niklas | 07.10.2019 |
 | Wikipedia | Annelen | 21.10.2019 |
-| Tagging (Keywords, Hashtags & Co.) | | |
+| Tagging (Keywords, Hashtags & Co.) | Ha | |
 | Exif | | |
 | JSON-Dateien | | |
 | OpenStreetMap | | |
