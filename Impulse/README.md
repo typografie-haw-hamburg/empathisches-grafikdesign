@@ -31,6 +31,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | How to use Google | Mert | 21.10.2019 |
 | IFTTT | | |
 | Workflow (iOS) | | |
+| Backups | | |
 | ... | | |
 
 ### Algorithmen
