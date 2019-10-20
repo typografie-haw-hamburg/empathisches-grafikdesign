@@ -1,7 +1,5 @@
 ## Resultate 03
 
----
-
 - [Annelen](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
 - [Nina](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
 - [Nicola](https://editor.p5js.org/nicola931/sketches/ow53JcLwC)
