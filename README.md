@@ -11,6 +11,7 @@ Im [Wiki](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wi
 - [Impulse](/Impulse)
 - [Übungen](/Uebungen)
 - [Apps](https://github.com/typografie-haw-hamburg/empathisches-grafikdesign/wiki/Apps)
+- [Empathisches Grafikdesign-Are.na-Channel](https://www.are.na/emphatisches-grafikdesign)
 
 
 ## p5.js
