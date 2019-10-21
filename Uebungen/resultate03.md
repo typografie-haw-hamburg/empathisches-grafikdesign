@@ -4,57 +4,80 @@
 
 ![Image Annelen](media/03/Annelen.png)
 
-🔗[Open in Editor](https://editor.p5js.org/Annelen/sketches/4AGMr12qF){:target="_blank"}
+🔗[Open in Editor](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
 
 ---
 
 #### Nina
 
-![Sketch Missing](../media/missing.png)
-[Link](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
+![Image Nina](media/03/Nina.png)
 
-git status
+🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
 
 ---
 
 #### Nicola
 
-[Link](https://editor.p5js.org/nicola931/sketches/ow53JcLwC)
+![Image Nicola](media/03/Nicola.png)
+
+🔗[Open in Editor](https://editor.p5js.org/nicola931/sketches/ow53JcLwC)
 
 ---
 
 #### Ricardo
 
-[Link](https://editor.p5js.org/RicardoBachmann/sketches/83qx5-Nsm)
+![Image Ricardo](media/03/Ricardo.png)
+
+🔗[Open in Editor](https://editor.p5js.org/RicardoBachmann/sketches/83qx5-Nsm)
 
 ---
 
 #### Heike
 
+![Image Heike 1](media/03/Heike1.png)
+
 [Link Sketch #1](https://editor.p5js.org/heikegrebin/sketches/f7BQhU7hV)
+
+![Image Heike 2](media/03/Heike2.png)
+
 [Link Sketch #2](https://editor.p5js.org/heikegrebin/sketches/paLzhmSl8)
+
 ---
 
 #### Frederik
 
-[Link](https://editor.p5js.org/gribelgrubel/sketches/rX8Of6l7S)
+![Image Frederik](media/03/Frederik.png)
+
+🔗[Open in Editor](https://editor.p5js.org/gribelgrubel/sketches/rX8Of6l7S)
+
 ---
 
 #### Mert
 
-[Link](https://editor.p5js.org/mertekinci/sketches/CasQc1WfO)
+![Image Mert](media/03/Mert.png)
+
+🔗[Open in Editor](https://editor.p5js.org/mertekinci/sketches/CasQc1WfO)
+
 ---
 
 #### Daniel
 
-[Link](https://editor.p5js.org/drmarzipan/sketches/tu74WMkvW)
+![Image Daniel](media/03/Daniel.png)
+
+🔗[Open in Editor](https://editor.p5js.org/drmarzipan/sketches/tu74WMkvW)
+
 ---
 
 #### Rebecca
 
-[Link](https://editor.p5js.org/rebeccuxs/sketches/qCwQZYCmO)
+![Image Rebecca](media/03/Rebecca.png)
+
+🔗[Open in Editor](https://editor.p5js.org/rebeccuxs/sketches/qCwQZYCmO)
+
 ---
 
 #### Niklas
 
-[Niklas](https://editor.p5js.org/niklas92/sketches/7i55DfAaj)
+![Image Niklas](media/03/Niklas.png)
+
+🔗[Open in Editor](https://editor.p5js.org/niklas92/sketches/7i55DfAaj)
