@@ -1,8 +1,9 @@
 ## Resultate 03
 
-#### Annelen | [Link](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
+#### Annelen
 
-![Sketch Annelen](media/03/Annelen.png)
+![Annelen](media/03/Annelen.png)
+🔗[Sketch](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
 
 ---
 
@@ -10,6 +11,8 @@
 
 ![Sketch Missing](../media/missing.png)
 [Link](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
+
+git status
 
 ---
 
