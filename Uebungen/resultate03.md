@@ -2,22 +2,28 @@
 
 #### Annelen
 
+![Sketch Annelen](/medien/Annelen.png)
 [Link](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
+
 ---
 
 #### Nina
 
+![Sketch Missing](/medien/missing.png)
 [Link](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
+
 ---
 
 #### Nicola
 
 [Link](https://editor.p5js.org/nicola931/sketches/ow53JcLwC)
+
 ---
 
 #### Ricardo
 
 [Link](https://editor.p5js.org/RicardoBachmann/sketches/83qx5-Nsm)
+
 ---
 
 #### Heike
