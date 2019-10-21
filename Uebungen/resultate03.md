@@ -8,39 +8,19 @@
 
 ---
 
-#### Nina
+#### Daniel
 
-![Image Nina](media/03/Nina.png)
+![Image Daniel](media/03/Daniel.png)
 
-🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
-
----
-
-#### Nicola
-
-![Image Nicola](media/03/Nicola.png)
-
-🔗[Open in Editor](https://editor.p5js.org/nicola931/sketches/ow53JcLwC)
+🔗[Open in Editor](https://editor.p5js.org/drmarzipan/sketches/tu74WMkvW)
 
 ---
 
-#### Ricardo
+#### David
 
-![Image Ricardo](media/03/Ricardo.png)
+![Image David](media/03/Missing.png)
 
-🔗[Open in Editor](https://editor.p5js.org/RicardoBachmann/sketches/83qx5-Nsm)
-
----
-
-#### Heike
-
-![Image Heike 1](media/03/Heike1.png)
-
-[Link Sketch #1](https://editor.p5js.org/heikegrebin/sketches/f7BQhU7hV)
-
-![Image Heike 2](media/03/Heike2.png)
-
-[Link Sketch #2](https://editor.p5js.org/heikegrebin/sketches/paLzhmSl8)
+🔗[Open in Editor]()
 
 ---
 
@@ -52,6 +32,82 @@
 
 ---
 
+#### Hanna
+
+![Image Frida](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Hanna
+
+![Image Hanna](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Kaja
+
+![Image Kaja](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Ha
+
+![Image Ha](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Heike
+
+![Image Heike 1](media/03/Heike1.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/f7BQhU7hV)
+
+![Image Heike 2](media/03/Heike2.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/paLzhmSl8)
+
+---
+
+#### Laurenz
+
+![Image Laurenz](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Lis
+
+![Image Lis](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Mariia
+
+![Image Mariia](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Martha
+
+![Image Martha](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
 #### Mert
 
 ![Image Mert](media/03/Mert.png)
@@ -60,11 +116,35 @@
 
 ---
 
-#### Daniel
+#### Milan
 
-![Image Daniel](media/03/Daniel.png)
+![Image Milan](media/03/Missing.png)
 
-🔗[Open in Editor](https://editor.p5js.org/drmarzipan/sketches/tu74WMkvW)
+🔗[Open in Editor]()
+
+---
+
+#### Nicola
+
+![Image Nicola](media/03/Nicola.png)
+
+🔗[Open in Editor](https://editor.p5js.org/nicola931/sketches/ow53JcLwC)
+
+---
+
+#### Niklas
+
+![Image Niklas](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Nina
+
+![Image Nina](media/03/Nina.png)
+
+🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
 
 ---
 
@@ -76,24 +156,40 @@
 
 ---
 
-#### Niklas
+#### Ricardo
 
-![Image Niklas](media/03/Missing.png)
+![Image Ricardo](media/03/Ricardo.png)
+
+🔗[Open in Editor](https://editor.p5js.org/RicardoBachmann/sketches/83qx5-Nsm)
+
+---
+
+#### Sandy
+
+![Image Sandy](media/03/Missing.png)
 
 🔗[Open in Editor]()
 
 ---
 
-#### Niklas
+#### Sitong
 
-![Image Niklas](media/03/Missing.png)
+![Image Sitong](media/03/Missing.png)
 
 🔗[Open in Editor]()
 
 ---
 
-#### Niklas
+#### Undine
 
-![Image Niklas](media/03/Missing.png)
+![Image Undine](media/03/Missing.png)
+
+🔗[Open in Editor]()
+
+---
+
+#### Yudi
+
+![Image Yudi](media/03/Missing.png)
 
 🔗[Open in Editor]()
