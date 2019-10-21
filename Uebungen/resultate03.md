@@ -5,7 +5,7 @@
 ![Sketch Annelen](media/Annelen.png)
 ![Sketch Annelen](/media/Annelen.png)
 ![Sketch Annelen](../media/Annelen.png)
-![Sketch Annelen](/Uebungen/media/03/Annelen.png)
+![Sketch Annelen](Uebungen/media/03/Annelen.png)
 [Link](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
 
 ---
