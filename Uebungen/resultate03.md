@@ -78,6 +78,6 @@
 
 #### Niklas
 
-![Image Niklas](media/03/Niklas.png)
+![Image Niklas](media/03/Missing.png)
 
-🔗[Open in Editor](https://editor.p5js.org/niklas92/sketches/7i55DfAaj)
+🔗[Open in Editor]()
