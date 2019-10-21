@@ -2,14 +2,14 @@
 
 #### Annelen
 
-![Sketch Annelen](/medien/Annelen.png)
+![Sketch Annelen](../medien/Annelen.png)
 [Link](https://editor.p5js.org/Annelen/sketches/4AGMr12qF)
 
 ---
 
 #### Nina
 
-![Sketch Missing](/medien/missing.png)
+![Sketch Missing](../medien/missing.png)
 [Link](https://editor.p5js.org/NinaBue/sketches/ZsJLhGaPZ)
 
 ---
