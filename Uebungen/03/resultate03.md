@@ -32,7 +32,7 @@
 
 ---
 
-#### Hanna
+#### Frida
 
 ![Image Frida](media/03/Missing.png)
 
