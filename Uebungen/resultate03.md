@@ -86,7 +86,7 @@
 
 #### Niklas
 
-![Image Niklas](media/03/Missing_02.png)
+![Image Niklas](media/03/Missing.png)
 
 🔗[Open in Editor]()
 
@@ -94,6 +94,6 @@
 
 #### Niklas
 
-![Image Niklas](media/03/Missing_03.png)
+![Image Niklas](media/03/Missing.png)
 
 🔗[Open in Editor]()
