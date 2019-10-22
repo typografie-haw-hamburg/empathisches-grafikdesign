@@ -106,9 +106,9 @@
 
 #### Mert
 
-![Image Mert](media/Missing.png)
+![Image Mert](media/Mert_Übung03.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/mertekinci/sketches/V1u0k21Pw)
 
 ---
 
