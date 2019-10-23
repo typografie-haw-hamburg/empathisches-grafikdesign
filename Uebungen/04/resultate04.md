@@ -18,7 +18,7 @@
 
 #### David
 
-![Image David](media/david-moiree.png)
+![Image David](media/david_moiree.png)
 
 🔗[Open in Editor](https://editor.p5js.org/schnavy/sketches/kXcHbs6Rx)
 
