@@ -192,4 +192,4 @@
 
 ![Image Yudi](media/Missing.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/cherryghostt/sketches/GyiQDa_b8)
