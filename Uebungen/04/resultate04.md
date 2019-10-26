@@ -10,7 +10,7 @@
 
 #### Daniel
 
-![Image Daniel](media/daniel_ÜBUNG4.png)
+![Image Daniel](media/daniel_uebung4.png)
 
 🔗[Open in Editor](https://editor.p5js.org/drmarzipan/sketches/_iMV17lwu)
 
