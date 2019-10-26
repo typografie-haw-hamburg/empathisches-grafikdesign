@@ -186,6 +186,6 @@
 
 #### Yudi
 
-![Image Yudi](media/Missing.png)
+![Image Yudi](media/Yudi_Uebung4.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/cherryghostt/sketches/_Sx5Xjwrn)
