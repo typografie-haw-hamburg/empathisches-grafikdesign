@@ -158,7 +158,7 @@
 
 #### Nina
 
-![Image Nina](media/Missing.png)
+![Image Nina](media/Nina_Moire.png)
 
 🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/EBrlAwiMI)
 
