@@ -26,7 +26,7 @@
 
 #### Frederik
 
-![Image Frederik](media/04_media_frederik.jpg)
+![Image Frederik](media/media_frederik_V2.jpg)
 
 🔗[Open in Editor](https://editor.p5js.org/gribelgrubel/sketches/vnpLLMPiQ)
 
