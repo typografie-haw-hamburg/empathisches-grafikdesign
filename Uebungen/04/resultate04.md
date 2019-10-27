@@ -50,7 +50,7 @@
 
 #### Kaja
 
-![Image Kaja](media/Missing.png)
+![Image Kaja](media/Kaja04.png)
 
 🔗[Open in Editor]()
 
