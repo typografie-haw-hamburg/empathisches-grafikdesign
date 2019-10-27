@@ -66,9 +66,29 @@
 
 #### Heike
 
-![Image Heike](media/Missing.png)
+![Image Heike](media/04_heik_10.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/RSI59sfSA)
+
+![Image Heike](media/04_heik_09.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/jWVf0qsuR)
+
+![Image Heike](media/04_heik_06.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/SAD5oic63)
+
+![Image Heike](media/04_heik_03.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/yPyDQ1DQo)
+
+![Image Heike](media/04_heik_02.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/9xD3usQfk)
+
+![Image Heike](media/04_heik_01.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/7amWieDYO)
 
 ---
 
