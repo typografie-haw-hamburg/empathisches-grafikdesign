@@ -2,7 +2,7 @@
 
 #### Annelen
 
-![Image Annelen](Moiré-Muster_Annelen.jpg)
+![Image Annelen](media/Moiré-Muster_Annelen.jpg)
 
 🔗[Open in Editor](https://editor.p5js.org/Annelen/sketches/2TMJR4UnG)
 
