@@ -26,7 +26,7 @@
 
 #### Frederik
 
-![Image Frederik](media/Missing.png)
+![Image Frederik](media/04_media_frederik.jpg)
 
 🔗[Open in Editor]()
 
