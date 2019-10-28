@@ -174,9 +174,9 @@
 
 #### Sandy
 
-![Image Sandy](media/Missing.png)
+![Image Sandy](media/Sandy Morie.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/cmcandy/sketches/Wgc2g8AP9)
 
 ---
 
