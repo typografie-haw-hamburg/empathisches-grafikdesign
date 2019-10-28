@@ -166,7 +166,7 @@
 
 #### Rebecca
 
-![Image Rebecca](media/Missing.png)
+![Image Rebecca](media/rebecca_moire.png)
 
 🔗[Open in Editor]()
 
