@@ -40,14 +40,6 @@
 
 ---
 
-#### Hanna
-
-![Image Hanna](media/Missing.png)
-
-🔗[Open in Editor]()
-
----
-
 #### Kaja
 
 ![Image Kaja](media/Kaja04.png)
