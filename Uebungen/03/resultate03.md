@@ -70,9 +70,9 @@
 
 #### Laurenz
 
-![Image Laurenz](media/Missing.png)
+![Image Laurenz](media/LaurenzDia.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/laurenzjansen/sketches/XvlsdJOJK)
 
 ---
 
