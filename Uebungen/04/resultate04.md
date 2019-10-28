@@ -104,7 +104,7 @@
 
 ![Image Mariia](media/myCanvas-3.jpg)
 
-🔗[Open in Editor](https://https://editor.p5js.org/m-matasova/sketches/CfLpTJMSI)
+🔗[Open in Editor](https://editor.p5js.org/m-matasova/sketches/CfLpTJMSI)
 
 ---
 
