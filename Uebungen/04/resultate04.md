@@ -174,7 +174,7 @@
 
 #### Sandy
 
-![Image Sandy](media/Sandy_Moire.png)
+![Image Sandy](media/Sandy Moire.png)
 
 🔗[Open in Editor](https://editor.p5js.org/cmcandy/sketches/Wgc2g8AP9)
 
