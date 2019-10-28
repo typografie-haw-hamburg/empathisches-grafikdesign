@@ -134,9 +134,9 @@
 
 #### Nicola
 
-![Image Nicola](media/Missing.png)
+![Image Nicola](media/uebung04_nicola.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/nicola931/sketches/ttr-Hls7v)
 
 ---
 
