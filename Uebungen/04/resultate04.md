@@ -174,9 +174,9 @@
 
 #### Ricardo
 
-![Image Ricardo](media/Missing.png)
+![Image Ricardo](media/Ricardo_Moire.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/RicardoBachmann/sketches/TP7udb4fw)
 
 ---
 
