@@ -102,9 +102,9 @@
 
 #### Mariia
 
-![Image Mariia](media/Missing.png)
+![Image Mariia](media/myCanvas-2.jpg)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/m-matasova/sketches/CfLpTJMSI)
 
 ---
 
