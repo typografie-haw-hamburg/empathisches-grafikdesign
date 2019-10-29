@@ -18,9 +18,9 @@
 
 #### David
 
-![Image David](media/Missing.png)
+![Image David](media/david.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/schnavy/sketches/DwqwVhGoV)
 
 ---
 
@@ -35,14 +35,6 @@
 #### Frida
 
 ![Image Frida](media/Missing.png)
-
-🔗[Open in Editor]()
-
----
-
-#### Hanna
-
-![Image Hanna](media/Missing.png)
 
 🔗[Open in Editor]()
 
@@ -78,9 +70,9 @@
 
 #### Laurenz
 
-![Image Laurenz](media/Missing.png)
+![Image Laurenz](media/LaurenzDia.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/laurenzjansen/sketches/XvlsdJOJK)
 
 ---
 
@@ -174,9 +166,9 @@
 
 #### Sitong
 
-![Image Sitong](media/Missing.png)
+![Image Sitong](media/Sitong.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/acp113/sketches/Ds4qTEtYN)
 
 ---
 
@@ -190,6 +182,6 @@
 
 #### Yudi
 
-![Image Yudi](media/Missing.png)
+![Image Yudi](media/Yudi.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/cherryghostt/sketches/GyiQDa_b8)
