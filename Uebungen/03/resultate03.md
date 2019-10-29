@@ -166,9 +166,9 @@
 
 #### Sitong
 
-![Image Sitong](media/Missing.png)
+![Image Sitong](media/Sitong.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/acp113/sketches/Ds4qTEtYN)
 
 ---
 
