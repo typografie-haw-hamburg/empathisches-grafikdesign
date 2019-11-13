@@ -182,7 +182,7 @@
 
 #### Sitong
 
-![Image Sitong](media/Missing.png)
+![Image Sitong](media/Uebung4-Sitong.png)
 
 🔗[Open in Editor](https://editor.p5js.org/acp113/sketches/Uf7_DeYa_)
 
