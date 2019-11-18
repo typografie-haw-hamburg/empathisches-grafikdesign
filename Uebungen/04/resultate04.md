@@ -86,8 +86,7 @@
 
 #### Laurenz
 
-![Image Laurenz](
-media/Bildschirmfoto 2019-11-18 um 10.03.08.png)
+![Image Laurenz](media/Bildschirmfoto 2019-11-18 um 10.03.08.png)
 
 🔗[Open in Editor](https://editor.p5js.org/laurenzjansen/sketches/vg2e7C9lb)
 
