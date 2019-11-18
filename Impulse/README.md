@@ -14,7 +14,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | --- | --- | --- |
 | CSV-Dateien | Niklas | 07.10.2019 |
 | Wikipedia | Annelen | 21.10.2019 |
-| Tagging (Keywords, Hashtags & Co.) | Ha | |
+| Tagging (Keywords, Hashtags & Co.) | Ha | 25.11.2019 |
 | Exif | | |
 | JSON-Dateien | | |
 | OpenStreetMap | | |
@@ -29,7 +29,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | Markdown | Frida | 07.10.2019 |
 | Are.na | Kaja | 14.10.2019 |
 | How to use Google | Mert | 21.10.2019 |
-| IFTTT | | |
+| IFTTT | Ricardo | 25.11.2019 |
 | Workflow (iOS) | | |
 | Backups | | |
 | ... | | |
