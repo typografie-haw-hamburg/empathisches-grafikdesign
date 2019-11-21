@@ -1,3 +1,4 @@
 - Übungen [01](01/uebungen_01.md), bis zum 07.10.2019
 - Übungen [03](03/README.md), bis zum 21.10.2019
 - Übungen [04](04/README.md), bis zum 28.10.2019
+- Übungen [07](07/README.md), bis zum 25.11.2019
