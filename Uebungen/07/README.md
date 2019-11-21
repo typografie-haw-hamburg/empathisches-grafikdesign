@@ -8,7 +8,7 @@ Bis Montag, 25.11.2019, macht bitte folgende Aufgaben:
 
   * Macht einen Screenshot vom Ergebnis und ladet diesen in den [media Ordner](media) hoch. Dann bearbeitet euren Eintrag bei den [Resultaten](resultate07.md) so (oben auf den Stift klicken), dass euer Screenshot und euer Sketch im Editor verlinkt sind.
 
-  * Diese Aufgabe sollen bitte *alle* machen. Diejenigen, die beim vorletzten mal gefehlt haben, als das Laden von CSV-Dateien erklärt wurde, sollen sich bitte darüber informieren, wie das Laden von CSV-Dateien funktioniert, schließt euch notfalls mit anderen zusammen.
+  * **Diese Aufgabe sollen bitte *alle* machen.** Diejenigen, die beim vorletzten mal gefehlt haben, als das Laden von CSV-Dateien erklärt wurde, sollen sich bitte darüber informieren, wie das Laden von CSV-Dateien funktioniert, schließt euch notfalls mit anderen zusammen.
 
 * **Raster**
 
