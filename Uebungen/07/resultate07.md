@@ -26,9 +26,9 @@
 
 #### Frederik
 
-![Image Frederik](media/Missing.png)
+![Image Frederik](media/frederik_hurricanes.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/gribelgrubel/sketches/CXCihRjzX)
 
 ---
 
