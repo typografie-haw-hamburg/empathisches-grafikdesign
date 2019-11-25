@@ -114,7 +114,7 @@
 
 #### Niklas
 
-![Image Niklas](media/07 infografik niklas.png)
+![Image Niklas](media/07_infografik_niklas.png)
 
 🔗[Open in Editor](https://editor.p5js.org/niklas92/sketches/nR05IeDyH)
 
