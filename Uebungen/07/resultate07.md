@@ -10,9 +10,9 @@
 
 #### Daniel
 
-![Image Daniel](media/Missing.png)
+![Image Daniel](media/07_daniel.PNG)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/drmarzipan/sketches/OIG-LjCV0)
 
 ---
 
