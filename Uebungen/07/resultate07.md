@@ -34,9 +34,9 @@
 
 #### Frida
 
-![Image Frida](media/Missing.png)
+![Image Frida](media/07_frida.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/kahlofrida/sketches/Z-GUFvl-s)
 
 ---
 
