@@ -106,9 +106,9 @@
 
 #### Nicola
 
-![Image Nicola](media/Missing.png)
+![Image Nicola](media/uebung07_nicola.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/nicola931/sketches/S9oy0cDqd)
 
 ---
 
