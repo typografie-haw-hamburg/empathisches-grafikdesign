@@ -98,9 +98,9 @@
 
 #### Mert
 
-![Image Mert](media/Missing.png)
+![Image Mert](media/07_mert.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/mertekinci/present/6jvuzFLQm)
 
 ---
 
