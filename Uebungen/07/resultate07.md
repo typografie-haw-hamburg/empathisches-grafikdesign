@@ -62,7 +62,7 @@
 
 🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/dRik8ZK2k)
 
-![Image Heike](media/191201_Städte_heik.png)
+![Image Heike](media/191201_Städte_heik.png)
 
 🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/HDUvYxSR9)
 
@@ -126,9 +126,9 @@
 
 #### Nina
 
-![Image Nina](media/Missing.png)
+![Image Nina](media07/07_Nina.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/0kxT4Lkni)
 
 ---
 
