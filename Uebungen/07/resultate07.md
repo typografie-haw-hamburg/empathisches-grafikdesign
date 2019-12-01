@@ -62,7 +62,7 @@
 
 🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/dRik8ZK2k)
 
-![Image Heike](media/191115_heik_csv_linien.png)
+![Image Heike](media/191201_Städte_heik.png)
 
 🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/HDUvYxSR9)
 
