@@ -78,7 +78,7 @@
 
 #### Lis
 
-![Image Lis](07_Lis.png)
+![Image Lis](media/07_Lis.png)
 
 🔗[Open in Editor](https://editor.p5js.org/lisnagel/sketches/Q2wfTd8ez)
 
