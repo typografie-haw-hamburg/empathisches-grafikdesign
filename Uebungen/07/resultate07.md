@@ -58,7 +58,7 @@
 
 #### Heike
 
-![Image Heike](media/Missing.png)
+![Image Heike](media/Uebungen/07/media/191115_heik_csv_linien.png)
 
 🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/dRik8ZK2k)
 
