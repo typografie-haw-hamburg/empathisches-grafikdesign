@@ -126,7 +126,7 @@
 
 #### Nina
 
-![Image Nina](media07/07_Nina.png)
+![Image Nina](media/07_Nina.png)
 
 🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/0kxT4Lkni)
 
