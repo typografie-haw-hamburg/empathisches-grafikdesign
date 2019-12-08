@@ -42,9 +42,9 @@
 
 #### Kaja
 
-![Image Kaja](media/Missing.png)
+![Image Kaja](media/07_kaja.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/kajanikolaus/sketches/DZexg536t)
 
 ---
 
