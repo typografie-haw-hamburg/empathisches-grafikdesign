@@ -2,49 +2,49 @@
 
 #### Annelen
 
-![Image Annelen](media/Missing.png)
+![Image Annelen](media/Annelen01.jpg)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/Annelen/sketches/1YCDpdcb_)
 
 ---
 
 #### Daniel
 
-![Image Daniel](media/Missing.png)
+![Image Daniel](media/07_daniel.PNG)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/drmarzipan/sketches/OIG-LjCV0)
 
 ---
 
 #### David
 
-![Image David](media/Missing.png)
+![Image David](media/david-exploding-seas.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/schnavy/full/748Zv9SnV)
 
 ---
 
 #### Frederik
 
-![Image Frederik](media/Missing.png)
+![Image Frederik](media/frederik_hurricanes.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/gribelgrubel/sketches/CXCihRjzX)
 
 ---
 
 #### Frida
 
-![Image Frida](media/Missing.png)
+![Image Frida](media/07_frida.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/kahlofrida/sketches/Z-GUFvl-s)
 
 ---
 
 #### Kaja
 
-![Image Kaja](media/Missing.png)
+![Image Kaja](media/07_kaja.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/kajanikolaus/sketches/DZexg536t)
 
 ---
 
@@ -58,9 +58,13 @@
 
 #### Heike
 
-![Image Heike](media/Missing.png)
+![Image Heike](media/191115_heik_csv_linien.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/dRik8ZK2k)
+
+![Image Heike](media/191201_Städte_heik.png)
+
+🔗[Open in Editor](https://editor.p5js.org/heikegrebin/sketches/HDUvYxSR9)
 
 ---
 
@@ -74,9 +78,9 @@
 
 #### Lis
 
-![Image Lis](media/Missing.png)
+![Image Lis](media/07_Lis.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/lisnagel/sketches/Q2wfTd8ez)
 
 ---
 
@@ -98,33 +102,33 @@
 
 #### Mert
 
-![Image Mert](media/Missing.png)
+![Image Mert](media/07_mert.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/mertekinci/full/6jvuzFLQm)
 
 ---
 
 #### Nicola
 
-![Image Nicola](media/Missing.png)
+![Image Nicola](media/uebung07_nicola.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/nicola931/sketches/S9oy0cDqd)
 
 ---
 
 #### Niklas
 
-![Image Niklas](media/Missing.png)
+![Image Niklas](media/07_infografik_niklas.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/niklas92/sketches/nR05IeDyH)
 
 ---
 
 #### Nina
 
-![Image Nina](media/Missing.png)
+![Image Nina](media/07_Nina.png)
 
-🔗[Open in Editor]()
+🔗[Open in Editor](https://editor.p5js.org/NinaBue/sketches/0kxT4Lkni)
 
 ---
 
