@@ -41,3 +41,10 @@ Wir können/werden uns im Rahmen des Kurses auch weitere Tools anschauen und ane
 - [vvvv](https://vvvv.org/) – Eine nodebasierte Programmierumgebung (Windows only 😞)
 - [basil.js](http://basiljs.ch/) – p5.js/Processing-Variante zur Nutzung innerhalb von Adobe InDesign
 - [Keyboard Maestro](https://www.keyboardmaestro.com) – Automatisierungsumgebung zur Ausführung von Macros (Mac only 😞)
+
+
+## API-Links
+
+- OpenWeatherMap Forecast: http://api.openweathermap.org/data/2.5/forecast/daily?q=Hamburg&units=metric&mode=json&APPID=61f2e9b2e7a07508bdfd51cf91e132d9
+- ISS Current Location: http://api.open-notify.org/iss-now.json
+- People in Space: http://api.open-notify.org/iss-now.json
