@@ -19,6 +19,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | OpenStreetMap | Laurenz | |
 | APIs | | |
 | Web Scraping | | |
+| Backups | Frederik | ??? |
 | ... | | |
 
 ### Workflow
