@@ -16,7 +16,6 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | Wikipedia | Annelen | 21.10.2019 |
 | Tagging (Keywords, Hashtags & Co.) | Ha | 25.11.2019 |
 | Exif | | |
-| JSON-Dateien | | |
 | OpenStreetMap | | |
 | APIs | | |
 | Web Scraping | | |
