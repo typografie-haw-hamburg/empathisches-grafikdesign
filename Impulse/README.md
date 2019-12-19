@@ -16,8 +16,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | Wikipedia | Annelen | 21.10.2019 |
 | Tagging (Keywords, Hashtags & Co.) | Ha | 25.11.2019 |
 | Exif | | |
-| JSON-Dateien | | |
-| OpenStreetMap | | |
+| OpenStreetMap | Laurenz | |
 | APIs | | |
 | Web Scraping | | |
 | ... | | |
@@ -31,7 +30,7 @@ Folgende Themen stehen zur Auswahl (Liste wird weiter ergänzt):
 | How to use Google | Mert | 21.10.2019 |
 | IFTTT | Ricardo | 25.11.2019 |
 | Workflow (iOS) | | |
-| Backups | | |
+| Backups | Frederik | ? |
 | ... | | |
 
 ### Algorithmen
