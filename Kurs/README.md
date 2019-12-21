@@ -1,8 +1,8 @@
-- Scripts Kurseinheit [04](04.md) | 21.10.2019
-- Scripts Kurseinheit [05](05.md) | 28.10.2019
-- Scripts Kurseinheit [06](06.md) | 11.11.2019
-- Scripts Kurseinheit [07](07.md) | 18.11.2019
-- Scripts Kurseinheit [08](08.md) | 25.11.2019
-- Scripts Kurseinheit [09](09.md) | 02.12.2019
-- Scripts Kurseinheit [10](10.md) | 09.12.2019
-- Scripts Kurseinheit [11](11.md) | 16.12.2019
+- 🔗 [Scripts Kurseinheit 04](04.md) | 21.10.2019
+- 🔗 [Scripts Kurseinheit 05](05.md) | 28.10.2019
+- 🔗 [Scripts Kurseinheit 06](06.md) | 11.11.2019
+- 🔗 [Scripts Kurseinheit 07](07.md) | 18.11.2019
+- 🔗 [Scripts Kurseinheit 08](08.md) | 25.11.2019
+- 🔗 [Scripts Kurseinheit 09](09.md) | 02.12.2019
+- 🔗 [Scripts Kurseinheit 10](10.md) | 09.12.2019
+- 🔗 [Scripts Kurseinheit 11](11.md) | 16.12.2019
