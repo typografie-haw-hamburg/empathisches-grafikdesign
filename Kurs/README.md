@@ -6,4 +6,4 @@
 - 🔗 [Scripts Kurseinheit 09](09.md) | 02.12.2019
 - 🔗 [Scripts Kurseinheit 10](10.md) | 09.12.2019
 - 🔗 [Scripts Kurseinheit 11](11.md) | 16.12.2019
-- 🔗 [Scripts Kurseinheit 12](11.md) | 16.12.2019
+- 🔗 [Scripts Kurseinheit 12](12.md) | 06.01.2020
