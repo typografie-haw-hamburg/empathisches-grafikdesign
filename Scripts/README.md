@@ -10,7 +10,7 @@ Scriptname
 
 ![Scriptname](media/Missing.png)
 
-🔗[Open in Editor](<!--- Link zum Editor-Script einfügen --->)
+🔗 [Open in Editor](<!--- Link zum Editor-Script einfügen --->)
 
 ---
 
