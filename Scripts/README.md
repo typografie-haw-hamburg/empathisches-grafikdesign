@@ -1,6 +1,6 @@
 ## Scripts
 
-Eine Sammlung von Scripts, die im Kurs entstehen
+Sammlung von Scripts und Snippets
 
 ----
 
