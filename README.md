@@ -50,3 +50,7 @@ Wir können/werden uns im Rahmen des Kurses auch weitere Tools anschauen und ane
 - OpenWeatherMap Forecast: http://api.openweathermap.org/data/2.5/forecast/daily?q=Hamburg&units=metric&mode=json&APPID=61f2e9b2e7a07508bdfd51cf91e132d9
 - ISS Current Location: http://api.open-notify.org/iss-now.json
 - People in Space: http://api.open-notify.org/iss-now.json
+
+## Sonstiges
+
+- [Robo-Bildsammlung zum Arbeiten mit Bildern](https://drive.google.com/open?id=1qesAPjYRv7Os236X63QtCSysUTNg5CmN)
